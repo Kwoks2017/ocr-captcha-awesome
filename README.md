@@ -12,3 +12,11 @@
 [A curated list of promising OCR resources](https://github.com/wanghaisheng/awesome-ocr)
 
 [验证码生成与识别](https://github.com/jkmiao/captcha)
+
+[an n2n ocr for qq captcha, 端到端的腾讯验证码识别](https://github.com/bojone/n2n-ocr-for-qqcaptcha)
+
+[Canny算子边缘检测识别滑动验证码](https://github.com/chxj1992/slide_captcha_cracker)
+
+[验证码识别](https://github.com/lznumber1/ocr)
+
+[滑动验证码，geetest；selenium大法、包分析法success率90%以上](https://github.com/darbra/geetest)
