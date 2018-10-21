@@ -24,3 +24,7 @@
 [Captcha-Decoder](https://github.com/bgeetika/Captcha-Decoder)
 
 [用java 编写的验证码识别](https://github.com/yinchuandong/JavaVerify)
+
+[滑动验证码破解示例，仅供学习使用。](https://github.com/zhongyiio/crack-geetest)
+
+[LSTM-CTC-recaptcha](https://github.com/stardut/LSTM-CTC-recaptcha)
