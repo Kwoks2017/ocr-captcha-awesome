@@ -20,3 +20,7 @@
 [验证码识别](https://github.com/lznumber1/ocr)
 
 [滑动验证码，geetest；selenium大法、包分析法success率90%以上](https://github.com/darbra/geetest)
+
+[Captcha-Decoder](https://github.com/bgeetika/Captcha-Decoder)
+
+[用java 编写的验证码识别](https://github.com/yinchuandong/JavaVerify)
