@@ -28,3 +28,4 @@
 [滑动验证码破解示例，仅供学习使用。](https://github.com/zhongyiio/crack-geetest)
 
 [LSTM-CTC-recaptcha](https://github.com/stardut/LSTM-CTC-recaptcha)
+[12306 图片验证码识别测试](https://github.com/andelf/fuck12306)
